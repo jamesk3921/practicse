@@ -1,0 +1,7 @@
+name ebbin
+age 25
+city cochin
+country india
+ from Asia
+ from Asia
+ from Asia
